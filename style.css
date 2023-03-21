@@ -1,0 +1,83 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: white;
+}
+
+
+body {
+    background-color: rgb(98, 38, 209);
+}
+
+.profile {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 28px;
+}
+
+.profile-2 {
+    color: aliceblue;
+}
+
+.container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+}
+
+.container-2 {
+    margin-left: 300px;
+    margin-right: 300px;
+    height: auto;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.trivia {
+    text-align: center;
+    font-size: 20px;
+    color: rgb(230, 152, 165);
+}
+
+li {
+    color: pink;
+}
+
+
+.imagem {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 350px;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+
+.text {
+    text-align: center;
+}
+
+.description {
+    color: rgb(150, 101, 241);
+}
+
+.rodape h6 {
+    text-align: center;
+    margin-top: 35px;
+    color: rgb(113, 201, 241);
+    margin-bottom: 13px;
+}
+
+
+
+ul li {
+    list-style: none;
+    text-align: center;
+}
